@@ -26,7 +26,7 @@ This project implements a simple Appointment Booking System using Java and a moc
 - `userId` (int, links to a User)
 - `doctor` (String)
 - `date` (String, format: `YYYY-MM-DD`)
-- `time` (String, format: `HH:MM AM/PM`)
+- `time` (String, format: `HH:MM`)
 
 ## Modules & Functions
 
